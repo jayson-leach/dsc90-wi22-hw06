@@ -3,7 +3,7 @@
 
 ## Question 1
 This is a map showing the location and number of cholera deaths in SoHo, London in relation to water pump locations.
-<iframe src='snow-map.html' width=800 height=600></iframe>
+<iframe src='snow-map.html' width=600 height=400 frameBorder=2></iframe>
 
 ## Question 2
 This is a graph showing the 3D relationship between father, mother, and child heights from Sir Francis Galton's heights dataset.
